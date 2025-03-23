@@ -71,7 +71,7 @@ const Navbar = () => {
           {/* Navigation Links */}
           <ul className="hidden md:flex absolute left-1/2 transform -translate-x-1/2 space-x-6 text-lg">
             <li>
-              <Link to="/" className="hover:text-[#C6AC8E] transition duration-200">
+              <Link to="/Kasuns" className="hover:text-[#C6AC8E] transition duration-200">
                 Home
               </Link>
             </li>
